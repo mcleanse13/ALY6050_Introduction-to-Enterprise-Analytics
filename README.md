@@ -5,7 +5,7 @@ Course Overview
 
 This course provided a comprehensive exploration of business analytics, emphasizing decision-making, optimization, and data-driven problem solving. Throughout six applied projects, I developed practical skills in prescriptive modeling, linear and nonlinear optimization, risk analysis, and scenario evaluation using tools such as Excel and R. The coursework bridged theoretical concepts with real-world applications, enabling me to translate complex business problems into structured models, perform sensitivity analyses, and generate actionable insights for enterprise decision-making.
 
-Projects and Key Learnings
+Projects and Key Learnings:
 
 Inventory Management Decision Model (Module 4)
 
@@ -53,7 +53,7 @@ Across all projects, developed proficiency in interpreting sensitivity reports, 
 
 Evaluated how changes in model parameters influence optimal solutions, providing actionable insights for strategic business and financial decisions.
 
-Skills Developed
+Skills Developed:
 
 Prescriptive and predictive modeling
 
