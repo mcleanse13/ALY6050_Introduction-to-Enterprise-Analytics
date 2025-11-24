@@ -1,46 +1,6 @@
 Module 5 Project: Using Linear Programming to Maximize Profits
 Project Overview
 
-This project uses linear programming to optimize inventory and maximize profits for a northern hardware company launching a new distribution center. The analysis focuses on four products: pressure washers, go-karts, generators, and water pumps. Key business constraints include:
+This project applies linear programming to optimize product inventory and maximize profits for a northern hardware company opening a new distribution center. The focus is on four products—pressure washers, go-karts, generators, and water pumps—subject to constraints including a $170,000 monthly purchasing budget, limited warehouse space, and required inventory ratios. Using Excel Solver and R, the project formulates decision variables, objective functions, and constraints to determine the optimal inventory levels for each product. Sensitivity analysis is performed to understand how changes in product prices, space allocation, and constraints affect the optimal solution, and to identify the smallest adjustments needed to change zero-optimal values for underrepresented items like pressure washers.
 
-Monthly purchasing budget: $170,000
-
-Warehouse space: 82 shelves (30 ft × 5 ft each)
-
-Inventory allocation constraints:
-
-Pressure washers and go-karts must occupy at least 30% of total inventory
-
-Generators must be sold at least twice as often as water pumps
-
-Linear programming is applied to determine the optimal quantities of each product, while sensitivity analysis and Solver reports are used to examine the impact of price changes, space allocation, and constraints on profitability.
-
-Key Analysis & Findings
-
-Optimal Inventory Levels (per Solver results):
-
-Pressure washers: 0 units
-
-Go-karts: minimal units due to space constraints
-
-Generators: high contribution to profit
-
-Water pumps: high contribution to profit
-
-Sensitivity Analysis:
-
-Price of pressure washers must increase to $540.86 for a non-zero optimal value
-
-Shadow prices indicate how constraints affect decision variables
-
-Warehouse Recommendations:
-
-Maintain current purchasing budget; do not increase funds
-
-Allocate a larger warehouse (~20,000 sq. ft) to better accommodate high-volume products and optimize profits
-
-Adjust inventory allocation dynamically to respond to demand fluctuations
-
-Conclusion
-
-This project demonstrates how linear programming and sensitivity analysis can guide strategic inventory and financial decisions. By understanding constraints, product profitability, and optimal inventory levels, companies can maximize profit while efficiently managing warehouse space and purchasing budgets.
+The project also evaluates strategic decisions regarding warehouse size and inventory management policies. Results from the linear programming model indicate which products contribute most to profit and highlight how inventory space and promotional constraints influence optimal solutions. Recommendations focus on adjusting inventory allocation rather than increasing the purchasing budget, with suggestions for a larger warehouse to better accommodate high-volume items and maintain profitability. Overall, the project demonstrates the use of prescriptive analytics and linear programming as tools for informed, data-driven decision-making in real-world business operations.
