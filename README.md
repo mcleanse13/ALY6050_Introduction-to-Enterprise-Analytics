@@ -7,7 +7,7 @@ This course provided a comprehensive exploration of business analytics, emphasiz
 
 Projects and Key Learnings:
 
-Inventory Management Decision Model (Module 4)
+- Inventory Management Decision Model (Module 4)
 
 Designed a prescriptive inventory model to balance demand fulfillment and cost minimization.
 
@@ -15,7 +15,7 @@ Used historical data, holding and ordering costs, and simulations in R and Excel
 
 Conducted what-if analyses and risk assessments to evaluate model sensitivity under uncertainty.
 
-Profit Maximization via Linear Programming (Module 5)
+- Profit Maximization via Linear Programming (Module 5)
 
 Developed a linear programming model to optimize the monthly inventory mix of four products in a new distribution center.
 
@@ -23,7 +23,7 @@ Applied budget, space, and sales constraints to maximize profit, using Excel Sol
 
 Evaluated trade-offs between product allocations, inventory space, and promotional requirements to recommend operational improvements.
 
-Transshipment Optimization (Module 6, Part 1)
+- Transshipment Optimization (Module 6, Part 1)
 
 Modeled waste transportation from six plants to three disposal sites to minimize shipment costs.
 
@@ -31,7 +31,7 @@ Incorporated intermediate transport nodes and safety considerations for hazardou
 
 Generated optimal shipment routes using Excel Solver, reducing transportation costs while complying with supply and capacity constraints.
 
-Quadratic Portfolio Optimization (Module 6, Part 2)
+- Quadratic Portfolio Optimization (Module 6, Part 2)
 
 Constructed a quadratic programming model for investment allocation across multiple asset types to minimize risk while achieving a baseline expected return.
 
@@ -39,7 +39,7 @@ Calculated portfolio variance, standard deviation, and expected returns to deter
 
 Performed sensitivity analysis on baseline returns, demonstrating the trade-off between risk and expected portfolio returns.
 
-Decision Methodologies and Heuristic Optimization (Module 2 & 3)
+- Decision Methodologies and Heuristic Optimization (Module 2 & 3)
 
 Explored prescriptive decision models, heuristic optimization, and what-if scenario analysis.
 
