@@ -1,5 +1,4 @@
 Module 5 Project: Using Linear Programming to Maximize Profits
-Project Overview
 
 This project applies linear programming to optimize product inventory and maximize profits for a northern hardware company opening a new distribution center. The focus is on four products—pressure washers, go-karts, generators, and water pumps—subject to constraints including a $170,000 monthly purchasing budget, limited warehouse space, and required inventory ratios. Using Excel Solver and R, the project formulates decision variables, objective functions, and constraints to determine the optimal inventory levels for each product. Sensitivity analysis is performed to understand how changes in product prices, space allocation, and constraints affect the optimal solution, and to identify the smallest adjustments needed to change zero-optimal values for underrepresented items like pressure washers.
 
