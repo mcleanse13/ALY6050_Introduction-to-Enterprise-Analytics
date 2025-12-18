@@ -1,9 +1,9 @@
-Module 6 Final Project: Optimization Problems
+Module 6 Final Project: Optimization Modeling for Logistics and Investment Decision-Making
 
-Project Overview
+Part 1: Supply Chain Cost Optimization Using Linear and Integer Programming
 
 This final project explores two advanced optimization problems using integer, binary, and nonlinear programming techniques. The first part focuses on a transshipment model for Rockhill Shipping & Transport Company, optimizing the transportation of chemical waste from six plants to three disposal sites. The objective is to minimize transportation costs while adhering to constraints on plant supply, site capacities, and safety considerations. Excel Solver was used to determine the optimal shipment routes, including an evaluation of intermediate transport nodes, which demonstrated that selective intermediate stops could nearly halve weekly costs while maintaining compliance with safety and community regulations. This model illustrates the application of linear programming in supply chain management and the benefits of strategically optimizing logistics for cost efficiency.
 
-Investment Optimization
+Part 2: Portfolio Risk Optimization Using Quadratic Programming
 
 The second part of the project applies quadratic programming to a portfolio investment problem. Using historical asset returns and covariance matrices, the model identifies the optimal allocation of a $10,000 investment across six asset types to minimize risk while achieving a baseline expected return of 11%. Excel Solver calculated portfolio weights, portfolio variance, and expected returns, showing that bonds and foreign stocks were the most heavily allocated assets, while riskier assets like call options received no allocation. Successive sensitivity analyses examined the relationship between minimized risk and expected returns, highlighting how changes in baseline return goals impact investment risk. This part demonstrates how nonlinear and quadratic optimization can be applied in finance to manage risk, guide investment decisions, and improve portfolio performance.
