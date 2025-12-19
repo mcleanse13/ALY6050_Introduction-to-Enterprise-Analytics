@@ -1,4 +1,4 @@
-# ALY6050_Introduction-to-Enterprise-Analytics
+ALY6050: Introduction to Enterprise Analytics
 
 Enterprise to Business Analytics – Course Summary
 Course Overview
@@ -60,7 +60,6 @@ Prescriptive and predictive modeling
 Linear, integer, and quadratic programming
 
 Risk analysis and simulation
-
 Excel Solver and R for optimization
 
 Sensitivity analysis and scenario evaluation
